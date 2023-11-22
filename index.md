@@ -5,3 +5,8 @@
 ##### Hola5
 ###### Hola6
 ![Image of jjk](https://i.blogs.es/eb9689/jujutsu-kaisen/1366_2000.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
